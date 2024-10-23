@@ -128,6 +128,7 @@ This repo collects AI-related utilities.
 |OthersideAI/self-operating-computer|A framework to enable multimodal models to operate a computer.|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|Free，GPT-4v required|
 |AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
 |microsoft/autogen|AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|Free|
+|Taskade AI|Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation within a unified workspace. Enhance team productivity with structured lists, notes, and mind maps.|[URL](https://www.taskade.com/)  | with daily free AI credits / paid upgrade available |
 
 ### Writing
 | Name | Description | Links | Fees | 
